@@ -1,0 +1,8 @@
+Nome,Idade,Valor
+João,25,1000
+Maria,32,1500
+Pedro,19,800
+Nome,Idade,Valor
+João,25,1000
+Maria,32,1500
+Pedro,19,800
